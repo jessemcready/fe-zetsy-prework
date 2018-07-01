@@ -1,10 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-@font_face {
-  font-family: Baskerville;
-  src: url(font/Baskerville.ttc);
-}
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700');
 
 /*////////// Global Styles //////////*/
 
